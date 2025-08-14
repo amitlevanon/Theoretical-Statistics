@@ -1,7 +1,0 @@
-metric,term,p_value,partial_eta2
-Avg Fares Per Trip FY,C(Q('3 Mode')),0.0012724165856125421,0.010370925192597625
-Avg Fares Per Trip FY,C(Q('Org Category (derived)')),1.95028430157651e-10,0.031193233767183175
-Avg Fares Per Trip FY,C(Q('Org Category (derived)')):C(Q('3 Mode')),0.00018517049339148898,0.013349089123187184
-Avg Trip Length FY,C(Q('3 Mode')),0.12493914163823121,0.0032471458654314677
-Avg Trip Length FY,C(Q('Org Category (derived)')),6.749939576083346e-12,0.03616870692307592
-Avg Trip Length FY,C(Q('Org Category (derived)')):C(Q('3 Mode')),0.0023293915491473683,0.009434723465113372
