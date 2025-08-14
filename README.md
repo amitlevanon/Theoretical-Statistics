@@ -9,8 +9,11 @@ https://colab.research.google.com/drive/1lJOk0KEJq1JCcF7qh_o-iHvOb3CNTBMN?usp=sh
 To run the analysis, please copy these commands into the terminal:
 
 git clone https://github.com/amitlevanon/Theoretical-Statistics
+
 cd Chess-Statistical-Analysis
+
 pip install -r requirements.txt
+
 python main.py
 
 The resulting figures will be saved in the "outputs" folder.
